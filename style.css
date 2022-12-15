@@ -106,13 +106,13 @@ body{
     height: 500px;
     margin-left: 270px;
     border: 6px solid;
-    border-color:darkgrey;
+    border-color:dimgray;
     border-radius: 51px;
 }
 .sidebutton{
     height: 89px;
     width: 7px;
-    background-color: darkgrey;
+    background-color: dimgray;
     margin-left: 267px;
     margin-top: -464px;
     border-radius: 100px;
@@ -125,7 +125,7 @@ body{
     background-color: rgba(0, 0, 0, 0.7);
 }
 .left-button{
-    background-color: darkgray;
+    background-color: dimgray;
     width: 8px;
     height: 43px;
     margin-top: 23px;
@@ -220,19 +220,19 @@ body{
     height: 500px;
     margin-left: 270px;
     border: 6px solid;
-    border-color:darkgrey;
+    border-color:dimgray;
     border-radius: 51px;
 }
 .sidebutton2{
     height: 89px;
     width: 7px;
-    background-color: darkgrey;
+    background-color: dimgray;
     margin-left: 267px;
     margin-top: -540px;
     border-radius: 100px;
 }
 .left-button2{
-    background-color: darkgray;
+    background-color: dimgray;
     width: 8px;
     height: 43px;
     margin-top: 23px;
