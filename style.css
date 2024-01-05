@@ -1,8 +1,8 @@
 html{
     scroll-behavior: smooth;
-    ::-webkit-scrollbar {
-    display: none;
 }
+::-webkit-scrollbar {
+    display: none;
 }
 .Main{
     width: 100%;
